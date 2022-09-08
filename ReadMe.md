@@ -41,7 +41,7 @@ messages with each other.
 
 ## SOURCE
 
-The Visual Studio(VS) solution consists of 3 projects:
+Visual Studio(VS) `IPCviaAkkaNET.sln` solution consists of 3 projects:
 - ActorLib (Library)
 - Alice (WinForms)
 - Bob (Console)
